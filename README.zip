@@ -1,4 +1,3 @@
-Aquí tienes el **proyecto Next.js + TailwindCSS** para tu web **EXERCISEVERYDAY** con varias páginas. Puedes usarlo directamente en Vercel para tener una URL pública:
 
 ---
 
@@ -210,13 +209,6 @@ export default function Contacto() {
     </div>
   );
 }
-```
-
----
-
-✅ Con este proyecto, si lo subes a **GitHub** y lo conectas a **Vercel**, obtendrás una URL como:
-```
-https://exerciseveryday.vercel.app
 ```
 
 ---
